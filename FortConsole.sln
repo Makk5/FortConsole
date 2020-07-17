@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FortConsole", "FortConsole.vcxproj", "{87FB450A-957F-446E-BE13-5F58074672A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FB450A-957F-446E-BE13-5F58074672A7}.Debug|x64.ActiveCfg = Debug|x64
+		{87FB450A-957F-446E-BE13-5F58074672A7}.Debug|x64.Build.0 = Debug|x64
+		{87FB450A-957F-446E-BE13-5F58074672A7}.Debug|x86.ActiveCfg = Debug|Win32
+		{87FB450A-957F-446E-BE13-5F58074672A7}.Debug|x86.Build.0 = Debug|Win32
+		{87FB450A-957F-446E-BE13-5F58074672A7}.Release|x64.ActiveCfg = Release|x64
+		{87FB450A-957F-446E-BE13-5F58074672A7}.Release|x64.Build.0 = Release|x64
+		{87FB450A-957F-446E-BE13-5F58074672A7}.Release|x86.ActiveCfg = Release|Win32
+		{87FB450A-957F-446E-BE13-5F58074672A7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26D05C7-33F8-41CB-8DA7-DB190EC4EF52}
+	EndGlobalSection
+EndGlobal
