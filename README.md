@@ -8,6 +8,7 @@ Make sure to launch without anti-cheat to avoid being banned.
 
 Any DLL injector should work if launched without anti-cheat.
 
-All CheatManager/FortCheatManager functions have been stripped from the game, so popular commands like ``toggledebugcamera`` and ``summon`` will not work.
+CheatManager/FortCheatManager commands will not work (e.g.``toggledebugcamera``, ``summon``, ``destroyall``, ect).
+Re-enabling them will be added in the future, infact, it's already done, but won't be pushed to this repo yet due to inefficient version flexibility (breaks on updates).
 
 Be careful when using ``showdebug`` as it lags the game due to not being able to find a font.
