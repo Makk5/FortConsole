@@ -1,21 +1,10 @@
 #pragma once
 
-//most of these are un-needed, just here for the sake of making code easier to read for others, especially UE4 enthusiasts 
+struct UObject;
 
-struct UObject
-{
-    char unknown;
-};
+struct UClass;
 
-struct UClass
-{
-    char unknown;
-};
-
-struct UConsole
-{
-    char unknown;
-};
+struct UConsole;
 
 struct UGameViewportClient
 {
