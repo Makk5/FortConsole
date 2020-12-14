@@ -2,7 +2,7 @@
 
 Yes, this does work for the latest version of Fortnite, make sure you're compiling x64 and not x86 as that is the most common mistake.
 
-No, this does not need to be updated every update, and the rare occurrences where it does, it should be updated within 24 hours.
+No, this does not need to be updated every update, and the rare occurrences where it does, I will update it within 24 hours.
 
 A DLL that creates the UE4 console.
 
