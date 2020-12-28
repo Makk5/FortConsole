@@ -3,6 +3,10 @@
 * Build with debug configuration for nerd stuff.
 */
 
+#ifdef WIN32
+#error x86 is not supported, please compile in x64
+#endif
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include "enums.h"
